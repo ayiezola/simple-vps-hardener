@@ -1,4 +1,5 @@
 #!/bin/bash
+# by ayiezola
 
 echo " "
 #user input
