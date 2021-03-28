@@ -10,7 +10,7 @@ else
   	echo "1) Harden "
   	echo "2) Enable password clear text: "
   	echo "3) Disable password clear text: "
-  	read -p "Select an option [1-2]: " option
+  	read -p "Select an option [1-3]: " option
 	case $option in
 		1)
 			IP=$(wget -qO- ipv4.icanhazip.com)
